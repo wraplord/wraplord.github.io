@@ -1,0 +1,17 @@
+{
+  "project_git" : {
+    "sha1" : "cd4659e5e0ffac6149a280efb9940b0f9cd1d192",
+    "origin" : "https://github.com/wraplord/defDragon-example.git",
+    "branch" : "main"
+  },
+  "bob_arguments" : {
+    "sha1" : "16c6fd602f32de4814660672c38ce3ccbbc1fb59",
+    "version" : "1.12.1",
+    "timestamp" : "2026-02-05 20:53:11"
+  },
+  "defold_sdk" : "16c6fd602f32de4814660672c38ce3ccbbc1fb59",
+  "dependencies" : [ {
+    "link" : "https://github.com/wraplord/extension-dragonbones/archive/refs/tags/0.5.zip",
+    "md5" : "594E8936B2BB84D0A37EB6834205C264"
+  } ]
+}
